@@ -1,9 +1,11 @@
-# yolov4-deepsort
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+# Link to Input video file
+https://drive.google.com/file/d/1nDTWMecnwOUnA8UXZr8_tV6GsAQYyhzz/view?usp=sharing
 
-This repository is created for the Youtube channel [TheCodingBug](https://www.youtube.com/channel/UCcNgapXcZkyW10FIOohZ1uA?sub_confirmation=1).
+#Link to sample output from frame to frame method
+https://drive.google.com/file/d/1yyMe4A9J9wYKw8_216AEdCi3xaAF5x9S/view?usp=sharing
 
-This repository shows how to use YOLOv4 and YOLOv4-Tiny to track objects using ``Deep Sort``. This is tested with ``TensorFlow 2.3.1`` on ``GTX-1060``.
+#Link to sample output from temporal window method
+https://drive.google.com/file/d/1P-zFtcBYFFFBIopwgqsuA1CFhp3iq-_T/view?usp=sharing
 
 
 # Object Tracking Results Yolov4 original weights
