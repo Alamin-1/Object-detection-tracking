@@ -8,17 +8,6 @@ https://drive.google.com/file/d/1yyMe4A9J9wYKw8_216AEdCi3xaAF5x9S/view?usp=shari
 https://drive.google.com/file/d/1P-zFtcBYFFFBIopwgqsuA1CFhp3iq-_T/view?usp=sharing
 
 
-# Object Tracking Results Yolov4 original weights
-
-### Tracking ``person``
-<p align="center"><img src="person.gif" width="640"\></p>
-
-### Tracking ``dog``
-<p align="center"><img src="dog.gif" width="640"\></p>
-
-### Tracking ``dog`` and ``person``
-<p align="center"><img src="dog_person.gif" width="640"\></p>
-
 # Table of Contents
 
 1. [Setting Up Environment](#setting-up-environment)
